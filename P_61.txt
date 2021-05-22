@@ -1,0 +1,9 @@
+#Errors Found in this Project:-
+
+App.js--> (AppNavigator) Parameter was not passed in line no. 22
+HomeScreen.js --> Arrow function has missing arrow ()=>{}
+Give Styling in TouchableOpacity
+onPress of TouchableOpacity has missing round brackets on function call
+
+
+Solution: https://snack.expo.io/@priyaa25/p-61-l
